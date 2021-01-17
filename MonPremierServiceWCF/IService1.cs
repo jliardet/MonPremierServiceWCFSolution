@@ -28,7 +28,7 @@ namespace MonPremierServiceWCF
     public class CompositeType
     {
         bool boolValue = true;
-        string stringValue = "Hello ";
+        string stringValue = "Hello Word";
 
         [DataMember]
         public bool BoolValue
